@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: PaperMoon Docs
+# site_url:
+docs_dir: papermoon-docs
+theme: 
+  name: material
