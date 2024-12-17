@@ -3,3 +3,8 @@ site_name: PaperMoon Docs
 docs_dir: papermoon-docs
 theme: 
   name: material
+  custom_dir: material-overrides
+  features:
+    - navigation.tabs
+extra_css:
+  - stylesheets/extra.css

@@ -1,2 +1,2 @@
-# PaperMoon Contributor Documentation
+# PaperMoon Documentation
 
