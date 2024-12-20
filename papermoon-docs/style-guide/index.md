@@ -1,1 +1,4 @@
-# PaperMoon Style Guide
+---
+title: PaperMoon Style Guide
+description: TODO
+---

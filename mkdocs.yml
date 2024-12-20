@@ -1,10 +1,22 @@
-site_name: PaperMoon Docs
-# site_url:
+site_name: Contributor Documentation
+site_url: https://papermoonio.github.io/papermoon-mkdocs
 docs_dir: papermoon-docs
 theme: 
   name: material
   custom_dir: material-overrides
+  favicon: assets/images/favicon.webp
+  logo: assets/images/papermoon.webp
+  palette:
+    primary: custom
+  font: 
+    text: Sora
   features:
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
 extra_css:
   - stylesheets/extra.css
+  

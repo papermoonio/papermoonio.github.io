@@ -1,2 +1,8 @@
-# PaperMoon Documentation
+---
+title: Home
+description: TODO
+hide:
+    - navigation
+---
+
 
