@@ -1,0 +1,5 @@
+nav:
+    - index.md
+    - 'Tutorial Template': tutorial.md
+    # - 'Concept Template': concept.md
+
