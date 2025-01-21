@@ -19,4 +19,6 @@ theme:
     - navigation.top
 extra_css:
   - stylesheets/extra.css
+markdown_extensions:
+  - pymdownx.snippets
   
