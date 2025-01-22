@@ -1,0 +1,53 @@
+:root {
+  /*borders*/
+  --md-border-color: #4c4b4bbb;
+  --md-border-radius: 12px;
+  --md-border-width: 1px;
+
+
+/*colors*/
+  --md-primary-fg-color:        #4B59A4;
+  --md-primary-fg-color--light: #86B4E2;
+  --md-primary-fg-color--dark:  #384797;
+  --md-primary-bg-color: #FFFBE1;
+  --md-primary-bg-color--light: #ffffff;
+
+  --md-accent-fg-color:                hsla(hsl(37, 95%, 62%), 1);
+  --md-accent-fg-color--transparent:   hsla(hsl(37, 95%, 62%), 0.1);
+  --md-accent-bg-color:                hsla(0, 0%, 100%, 1);
+  --md-accent-bg-color--light:         hsla(0, 0%, 100%, 0.7);
+}
+
+/*admonition SVGs*/
+--md-admonition-icon--code: url();
+
+/*cards*/
+.md-typeset .cards>ol>li,
+.md-typeset .cards>ul>li,
+.md-typeset .card {
+  background-color: var(--grey);
+  border: var(--md-border-width) solid var(--md-border-color);
+  border-radius: var(--md-border-radius);
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+
+/*custom admonition for code type*/
+.md-typeset .admonition.code,
+.md-typeset details.code {
+  border-color: var(--md-primary-fg-color);
+}
+
+.md-typeset .code > .admonition-title,
+.md-typeset .code > summary {
+  background-color: var(--md-primary-fg-color--dark);
+  color: var(--md-primary-bg-color)
+}
+
+.md-typeset .code > .admonition-title::before,
+.md-typeset .code > summary::before {
+  background-color: var(--md-accent-fg-color);
+  -webkit-mask-image: var(--md-admonition-icon--code);
+  mask-image: var(--md-admonition-icon--code);
+}
