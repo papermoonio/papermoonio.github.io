@@ -7,6 +7,9 @@ theme:
   custom_dir: material-overrides
   favicon: assets/images/favicon.webp
   logo: assets/images/papermoon.webp
+  icon: 
+    admonition:
+      code: material/code-tags
   palette:
     primary: custom
   font: 
