@@ -1,14 +1,14 @@
 site_name: Contributor Documentation
 site_url: https://papermoonio.github.io/papermoon-mkdocs
 docs_dir: papermoon-docs
-copyright: © 2024
+copyright: © 2025
 theme: 
   name: material
   custom_dir: material-overrides
   favicon: assets/images/favicon.webp
   logo: assets/images/papermoon.webp
   icon: 
-    admonition:
+    admonition: # Assigns icons per custom admonition type
       code: material/code-tags
   palette:
     primary: custom

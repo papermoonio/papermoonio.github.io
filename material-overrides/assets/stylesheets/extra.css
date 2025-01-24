@@ -19,10 +19,6 @@
   --md-accent-bg-color--light:         hsla(0, 0%, 100%, 0.7);
 }
 
-/*admonition SVGs*/
-/* SVG run through base64 encoder creates url that goes here*/
---md-admonition-icon--code: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE0LjYsMTYuNkwxOS4yLDEyTDE0LjYsNy40TDE2LDZMMjIsMTJMMTYsMThMMTQuNiwxNi42TTkuNCwxNi42TDQuOCwxMkw5LjQsNy40TDgsNkwyLDEyTDgsMThMOS40LDE2LjZaIiAvPjwvc3ZnPg==');
-
 /*cards*/
 .md-typeset .cards>ol>li,
 .md-typeset .cards>ul>li,
