@@ -34,7 +34,7 @@ Do not use admonitions to create a [cross-reference](https://developers.google.c
 
 ### Customize Admonition Title
 
-You have a few options regarding the title displayed above your admonition message. This section covers those options and how to apply each one to customize an admonition. Select a title to view an example of the styling for that title option.
+You have options regarding the title displayed above your admonition message. This section covers how to change the title to customize an admonition. Select a title to view an example of the styling for that title option.
 
 - [**Default title**](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage){target=\_blank} - admonitions will default to using the type qualifier (`tip`, `note`, or `warning`) in titlecase. No additional syntax is needed to use the default title. An example using the default title for the tip admonition might look as follows:
 
@@ -47,20 +47,12 @@ You have a few options regarding the title displayed above your admonition messa
 - [**Custom title**](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#changing-the-title){target=\_blank} - add a quoted string containing valid markdown after the type qualifier to create a custom title for your admonition. The following example updates the `tip` admonition with a custom title:
 
     ``` markdown
-    !!! tip "Basic Attention Token based on few"
+    !!! tip "Basic attention token based on few"
 
         Lorem ipsum dolor sit amet, IOTA cut off a hot wallet, but Golem allowed a robust volume although ERC20 token standard returns lots of ledger. Since Cardano detected some automated arbitrage in the pump and dump, it built few dormant dolphin.
     ```
 
-    If you need a custom admonition title, considered whether adding a heading and copy to the body of your page would be a better way to communicate the message.
-
-- [**No title**](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#removing-the-title){target=\_blank} - add an empty string after the type qualifier to omit the title and icon completely. This option should rarely be used when creating messaging admonitions. The following example updates the `tip` admonition to remove the title:
-
-    ``` markdown
-    !!! tip ""
-
-        Lorem ipsum dolor sit amet, IOTA cut off a hot wallet, but Golem allowed a robust volume although ERC20 token standard returns lots of ledger. Since Cardano detected some automated arbitrage in the pump and dump, it built few dormant dolphin.
-    ```
+    If you need a custom admonition title, considered whether adding a heading and copy to the body of your page would be a better way to communicate the message. Custom admonition titles should use sentence case.
 
 ## Use Layout Admonitions
 
@@ -86,7 +78,7 @@ The following layout admonition types are available across all projects unless o
 
 ## Additional Resources
 
-- [**Admonitions**](https://squidfunk.github.io/mkdocs-material/reference/admonitions/){target=\_blank} page - Material for Mkdocs
+- [**Admonitions**](https://squidfunk.github.io/mkdocs-material/reference/admonitions/){target=\_blank} page - Material for MkDocs
 - [**placehodler**](https://placehodler.shapelabs.co/){target=\_blank} - a crypto themed lorem ipsum generator
 
 
