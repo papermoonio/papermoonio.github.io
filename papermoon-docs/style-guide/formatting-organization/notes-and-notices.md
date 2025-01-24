@@ -72,7 +72,7 @@ The following layout admonition types are available across all projects unless o
     ```
 
     - The `code` admonition should be collapsed by default
-    - The title should be the name of the file inside the admonition
+    - The title should be the name of the file inside the admonition. Please don't use backticks here as they create a box around the filename when the page is rendered
     - Limit use to instances where you are sharing the complete code of a script or smart contract you previously presented in pieces, such as the end of a section in a tutorial
     - The `code` admonition is not part of the default supported set and must be configured for each project. If you are using `code` and not getting the expected results, please see a member of the formatting team
 
