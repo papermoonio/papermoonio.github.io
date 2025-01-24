@@ -1,6 +1,6 @@
 ---
 title: Notes and Notices
-description: TODO
+description: Learn how to master different types of admonitions in MkDocs to improve clarity, organization, and UX for better content creation.
 ---
 
 # Notes and Notices
