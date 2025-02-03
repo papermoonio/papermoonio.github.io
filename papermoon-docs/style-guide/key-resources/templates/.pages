@@ -1,6 +1,5 @@
 title: Templates
 nav:
   - index.md
-  - 'Tutorial': tutorial.md
-  - 'Explanation': explanation.md
+  - wormhole
 
