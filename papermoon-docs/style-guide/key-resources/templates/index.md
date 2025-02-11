@@ -13,9 +13,7 @@ In this section you will find templates for the four primary documenation types 
 
 ## How-To Use the Templates
 
-Deciding which template best fits the content you want to create can be tricky, especially when it comes to differentiating tutorials from how-to guides. 
-
-<!--Mermaid diagram here for selecting template-->
+Deciding which template best fits the content you want to create can be tricky, especially when it comes to differentiating tutorials from how-to guides.
 
 ## Available Templates
 
@@ -26,6 +24,14 @@ Deciding which template best fits the content you want to create can be tricky, 
 ### Tutorial
 
 ### Reference
+
+### Index Pages
+
+The use of index pages is under review. Expect changes and updates to this guidance. 
+
+#### Wormhole
+- [**Index page template guide**](/papermoon-mkdocs/style-guide/key-resources/templates/wormhole/index-pages/)
+- [**Index page template**](/papermoon-mkdocs/style-guide/key-resources/templates/wormhole/index-pages/#index-page-template)
 
 
 

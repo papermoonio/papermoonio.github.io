@@ -24,18 +24,12 @@ All Wormhole index pages should include the following items:
 - **SEO-friendly meta title** - between 34 and 44 characters. This title plus the copy "| Wormhole Docs" should equal 50 to 60 characters in total
 - **SEO-friendly meta description** - between 120 and 160 characters
 - **H1 heading page title** - this is the title that will render at the top of the page and may be different than the meta title
-- **Content or body text** - this will be different for each page. All index pages should do guide the user journey and, when appropriate, describe products or use cases
-    - **User journey** - all index pages are part of the roadmap to guide the user along their journey. See [Develop User Journey](#develop-user-journey) in the following section for guidance on formatting user journey related content
-    - **Product description** - if the page links to one or more products, add a project description for each product. See [Describe a Product](#describe-a-product) in the following section for guidance on formatting product descriptions
+- **Content or body text** - this will be different for each page. All index pages should guide the user journey and, when appropriate, describe products or use cases
+    - **User journey** - all index pages are part of the roadmap to guide the user along their journey in discovering and using the product
+    - **Product description** - if the page links to one or more products, add a project description for each product
 - **Cards for navigation links** - these cards should match the navigation options for the page
 - **Related Resources** (optional) - bulleted list of informational resources related to the page contents or relevant Reference page entries
 - **Where to Go Next** (optional) - bulleted list of guides and tutorials related to the page contents
-
-## Develop User Journey
-
-## Describe a Product
-
-
 
 ## Index Page Template
 
@@ -65,10 +59,8 @@ Before requesting PR review, please ensure you have:
 
 ## Addtional Resources
 
-
-
-## Next Steps
-
+- [**Character Counter**](https://wordcounter.net/character-count) - quickly check the character length of your titles and descriptions
+- [**Title Case Converter**](https://titlecaseconverter.com/) - verify title case for titles or headlines
 
 
 
