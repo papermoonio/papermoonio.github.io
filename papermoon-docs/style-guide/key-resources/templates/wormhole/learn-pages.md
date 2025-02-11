@@ -162,8 +162,8 @@ Create a bulleted list of guides and tutorials related to the page contents to g
 
 Before requesting PR review, please ensure you have:
 
-1. Used Grammarly to review your work and made needed edits as appropriate
-2. Served the site locally for a visual review of rendering and made updates as needed. 
+1. Used Grammarly to review your work and made edits as needed
+2. Served the site locally for a visual review of rendering and made updates as needed
 
     You can serve the site locally by running the following command from the `wormhole-mkdocs` directory:
 

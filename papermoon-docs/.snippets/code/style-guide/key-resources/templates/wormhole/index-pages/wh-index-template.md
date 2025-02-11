@@ -26,5 +26,5 @@ description: {{120 - 160 charater SEO-friendly description}}
 {{Optional, include where it makes sense. Provided copy is example wording}}
 ## Where to Go Next
 - {{For a guide to integrating {{Product}} with your project, see [{{How-to-Integrate-Product}}]({{path/for/link}}) in the Build section}}
-- {{For a step-by-step walk-through of configuring {{Tool}}, see {{Tutorial Title}} in the Tutorials section}}
+- {{For a step-by-step walk-through of configuring {{Tool}}, see [{{Tutorial Title}}]({{path/for/link}}) in the Tutorials section}}
 ```
