@@ -7,14 +7,14 @@ description: TODO
 
 ## Introduction
 
-This page is a guide to using the index page template for Wormhole index pages. It is intended to ensure index pages are informative and aid in navigation to add value for users. In the following sections you'll learn how to plan an effective index page, the required elements, and guidance for styling and formatting these pages. 
+This page is a guide to using the index page template for Wormhole index pages to ensure the pages are informative and aid in navigation to add user value. In the following sections, you'll learn how to plan an effective index page, the required elements, and guidance for styling and formatting these pages.
 
 ## Before You Start Writing
 
-You will have an easier time creating an effective index page if you do a bit of planning and organizing of your ideas before you start writing page content. Keeping in mind the two goal of being informative and aiding in navigation, consider the following:
+You will have an easier time creating an effective index page if you plan and organize your ideas before you start writing page content. Keeping in mind the two goals of being informative and aiding in navigation, consider the following:
 
 - **Call to Action Links** - do any CTA buttons or links lead to this page? If so, is the content promoted by the CTA included, complete, and easy to find?
-- **Consider Your Audience** - who is most likely to land on this page? What are they most likely looking for from this page?
+- **Consider Your Audience** - who will most likely land on this page? What are they most likely looking for from this page?
 - **Tell a Story** - what story do you want to tell the user who lands on this page? Why should they spend time on this section? What do you want them to know or find from here?
 
 ## Style Guidance
@@ -44,7 +44,7 @@ Follow these steps to use the index page template:
 
 ## PR Checklist
 
-Before requesting PR review, please ensure you have:
+Before requesting a PR review, please ensure you have completed the following:
 
 1. Used Grammarly to review your work and made needed edits as appropriate
 2. Served the site locally for a visual review of rendering and made updates as needed. 
@@ -57,7 +57,7 @@ Before requesting PR review, please ensure you have:
 
 3. Checked the PR checklist on GitHub and completed any items listed there
 
-## Addtional Resources
+## Additional Resources
 
 - [**Character Counter**](https://wordcounter.net/character-count) - quickly check the character length of your titles and descriptions
 - [**Title Case Converter**](https://titlecaseconverter.com/) - verify title case for titles or headlines

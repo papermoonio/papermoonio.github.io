@@ -1,7 +1,7 @@
 ```
 ---
 title: {{34 - 44 character SEO-friendly title}}
-description: {{120 - 160 charater SEO-friendly description}}
+description: {{120 - 160 character SEO-friendly description}}
 ---
 
 # {{Page Title to Display on Page}}
@@ -12,7 +12,7 @@ description: {{120 - 160 charater SEO-friendly description}}
 
 ## Prerequisites
 
-This guide assumes knowledge of basic blockchain development and Wormhole concepts. To successfully follow this guide, you will need:
+This guide assumes knowledge of fundamental blockchain development and Wormhole concepts. To successfully follow this guide, you will need:
 
 - {{Wormhole concepts beyond the basics - link to Learn pages}}
 - {{Software or hardware requirements - link to Installation pages where possible}}
@@ -20,11 +20,11 @@ This guide assumes knowledge of basic blockchain development and Wormhole concep
 - {{Testnet tokens or wallets - links to faucets or wallets}}
 - {{Authentication and authorization such as API keys, private key, etc. - link to get credentials}}
 
-## {{Name of first subtask - Create a New Folder, Install the Package, Clone the Repository}}
+## {{Name of the first subtask - Create a New Folder, Install the Package, Clone the Repository}}
 
 {{Brief explanatory text if needed}}
 
-1. {{Describe action to take - start with a base, plain verb}}
+1. {{Describe the action to take - start with a base, plain verb}}
 
 INSERT_SNIPPET_SYNTAX (if using a code example)
 
@@ -34,7 +34,7 @@ INSERT_SNIPPET_SYNTAX (if using a code example)
 
 {{Brief explanatory text if needed}}
 
-2. {{Describe action to take - start with a base, plain verb}}
+2. {{Describe the action to take - start with a base, plain verb}}
 
 INSERT_SCREENSHOT_SYNTAX (if using a screenshot)
 

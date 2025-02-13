@@ -7,7 +7,7 @@ description: TODO
 
 ## Introduction
 
-The Wormhole Docs use Learn as the section for informational content. Learn pages are structured to implement the [Explanation](https://diataxis.fr/explanation/){target=\_blank} Diataxis documentation form and the [Concept](https://www.thegooddocsproject.dev/template/concept){target=\_blank} The Good Docs Project content type. The following sections use concept to refer to the topic or idea your content is about.
+The Wormhole Docs use Learn as the section for informational content. Learn pages are structured to implement the [Explanation](https://diataxis.fr/explanation/){target=\_blank} Diataxis documentation form and the [Concept](https://www.thegooddocsproject.dev/template/concept){target=\_blank} The Good Docs Project content type. The following sections use the word concept to refer to your content's topic or idea.
 
 ## Purpose of Learn Pages
 
@@ -23,11 +23,11 @@ The primary purpose of Learn pages is to develop the user's understanding of the
 
 ## Before You Start Writing
 
-The single most important thing you can do before you start writing is to think about the target audience and what they might need from this page. The following sections contain additional activities you may find useful during the planning phase. 
+The most important thing you can do before you start writing is to think about the target audience and what they might need from this page. The following sections contain additional activities you may find useful during the planning phase. 
 
 ### Map Out the Concept
 
-Use a sketch, diagram, or outline to help you to organize the information in your mind and see the entire concept at once. Possible questions to answer during this step include:
+Use a sketch, diagram, or outline to help you organize the information in your mind and see the entire concept at once. Possible questions to answer during this step include:
 
 - How does the concept connect to other concepts?
 - Where does it fit in the broader ecosystem?
@@ -37,7 +37,7 @@ If you do this part well, you may come away with the start of a nice diagram or 
 
 ### Collect User Feedback 
 
-User feedback can be a powerful tool in shaping documentation to best meet user needs. Collect common questions or concerns where possible and use them to guide your content development. Possible sources of feedback might include:
+User feedback can be a powerful tool in shaping documentation to meet user needs best. Collect common questions or concerns where possible and use them to guide your content development. Potential sources of feedback might include:
 
 - Submissions to the feedback widget
 - Hackathon participant feedback
@@ -46,13 +46,13 @@ User feedback can be a powerful tool in shaping documentation to best meet user 
 
 ### Organize Information
 
-Use the inverted pyramid structure to organize Learn page information. With the inverted pyramid, the information the user most needs to know is presented first. The rest of the information is ordered from most important to least important. 
+Use the inverted pyramid structure to organize information on the Learn page. With the inverted pyramid, the information the user needs most is presented first. The rest of the information is ordered from most important to least important.
 
-The [Inverted pyramid structure](https://www.stylemanual.gov.au/structuring-content/types-structure/inverted-pyramid-structure){target=\_blank} page from the Australian Government Style Manual provides a deeper look at effective use of the inverted pyramid.
+The [Inverted pyramid structure](https://www.stylemanual.gov.au/structuring-content/types-structure/inverted-pyramid-structure){target=\_blank} page from the Australian Government Style Manual provides a deeper look at the effective use of the inverted pyramid.
 
 ## Name a Learn Page
 
-The title of a Learn page is your first opportunity to help the user identify the topic of the page. Consider the following guidelines and options when naming a Learn page:
+The title of a Learn page is your first opportunity to help the user identify the page's topic. Consider the following guidelines and options when naming a Learn page:
 
 - **Name of concept** - use the name of the concept as a noun
 
@@ -80,11 +80,11 @@ The title of a Learn page is your first opportunity to help the user identify th
 
     :white_check_mark: The title in the left navigation and the title rendered on the page can be different
 
-If you have a title you would like to use that doesn't fit these guidelines, please discuss it with the formatting team prior to opening your pull request. 
+If you have a title you would like to use that doesn't fit these guidelines, discuss it with the formatting team before opening your pull request. 
 
 ## Create Learn Page Description
 
-Each Learn page must include an an SEO-friendly meta-description of between 120 and 160 characters. You can use Grammarly as an assistant for this task by following these steps:
+Each Learn page must include an SEO-friendly meta-description of between 120 and 160 characters. You can use Grammarly as an assistant for this task by following these steps:
 
 1. Paste your copy into a Grammarly document
 2. Select the **Write with generative AI** tab at the top of the right-hand column
@@ -107,7 +107,7 @@ All Wormhole Learn pages should include the following:
     
 ### Introduction 
 
-Your opening paragraph should immediately tell the user if this page is of interest or use to them. Consider the following guidance when writing the first paragraph of the introduction:
+Your opening paragraph should immediately tell the user if this page is interesting or useful. Consider the following guidance when writing the first paragraph of the introduction:
 
 - Introduce the concept. What is it?
 - Provide context. Why is it important or relevant? 
@@ -121,8 +121,8 @@ Examples - see the following for examples of quality opening paragraphs:
 Following the opening paragraph, add one to two paragraphs to address the following points where relevant:
 
 - **Functionality** - what does the product or concept do?
-- **Define the Concept** - think of a glossary definition. The goal is to create a shared understanding of the concept between the writer and reader
-- **The Big Picture** - explain how this concept fits into the bigger picture of products or concepts. Focus language on the problem solved and benefits of the solution 
+- **Define the Concept** - think of a glossary definition. The goal is to create a shared understanding of the concept between the writer and the reader
+- **The Big Picture** - explain how this concept fits into the bigger picture of products or concepts. Focus language on the problem solved and the benefits of the solution 
 - **Key Features** - a bullet list of key features can be helpful here
 - **Visual Aid or Diagram** (optional) - use if it will help illustrate how the concept is organized or how it fits into the broader system or product
 
@@ -132,7 +132,7 @@ Example - see the following for an example of defining a concept:
 
 ### Use Cases
 
-This is a great opportunity to link users to future steps in the developer journey. Depending on the overall length of the Learn page, use paragraphs or bullet lists to briefly share use cases related to the concept or product. A quality use case will include a brief explanation of the problem being solved and specifically how the presented concept solves the problem.
+This section is an excellent opportunity to link users to future steps in the developer journey. Depending on the overall length of the Learn page, use paragraphs or bullet lists to share use cases related to the concept or product briefly. A quality use case will include a brief explanation of the problem solved and how the presented concept solves the problem.
 
 Example - see the following for an example of defining use cases:
 
@@ -140,11 +140,11 @@ Example - see the following for an example of defining use cases:
 
 ### Comparison Section (optional)
 
-Use this section to include a comparison table, or link to one elsewhere on the site, if appropriate. 
+If appropriate, use this section to include a comparison table or link to one elsewhere on the site.
 
 ### How It Works
 
-Includes one to two paragraphs to briefly explain how the concept operates and the main components involved in any associated process. This is where you can go into more detail for those who have read this far down the page. 
+Include one to two paragraphs briefly explaining how the concept operates and the main components involved in any associated process. This section is where you can go into more detail for those who have read this far down the page. 
 
 ### Related Resources 
 
@@ -152,7 +152,7 @@ Create a bulleted list of links to informational resources related to the page c
 
 ### Where to Go Next
 
-Create a bulleted list of guides and tutorials related to the page contents to guide the developer journey toward using what they learned.
+Create a bulleted list of guides and tutorials related to the page contents to guide developers in using what they learned.
 
 ## Learn Page Template
 
@@ -160,7 +160,7 @@ Create a bulleted list of guides and tutorials related to the page contents to g
 
 ## PR Checklist
 
-Before requesting PR review, please ensure you have:
+Before requesting a PR review, ensure you have completed the following:
 
 1. Used Grammarly to review your work and made edits as needed
 2. Served the site locally for a visual review of rendering and made updates as needed
@@ -173,7 +173,7 @@ Before requesting PR review, please ensure you have:
 
 3. Checked the PR checklist on GitHub and completed any items listed there
 
-## Addtional Resources
+## Additional Resources
 
 - [**Character Counter**](https://wordcounter.net/character-count){target=\_blank} - quickly check the character length of your titles and descriptions
 - [**Title Case Converter**](https://titlecaseconverter.com/){target=\_blank} - verify title case for titles or headlines

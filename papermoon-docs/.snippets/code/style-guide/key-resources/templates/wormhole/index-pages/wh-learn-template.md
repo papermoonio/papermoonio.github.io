@@ -1,7 +1,7 @@
 ```
 ---
 title: {{34 - 44 character SEO-friendly title}}
-description: {{120 - 160 charater SEO-friendly description}}
+description: {{120 - 160 character SEO-friendly description}}
 ---
 
 # {{Page Title to Display on Page}}
@@ -18,7 +18,7 @@ description: {{120 - 160 charater SEO-friendly description}}
 
 {{Include a brief explanation of the problem being solved and specifically how the presented concept solves the problem}}
 
-## Comparing to {{ name of the thing your're comparing to this concept }} 
+## Comparing to {{ name of the thing you're comparing to this concept }} 
 
 {{ Optional, include where it makes sense. Use a comparison table here or link the user to a comparison table elsewhere on the site }}
 

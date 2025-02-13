@@ -1,7 +1,7 @@
 ```
 ---
 title: {{34 - 44 character SEO-friendly title}}
-description: {{120 - 160 charater SEO-friendly description}}
+description: {{120 - 160 character SEO-friendly description}}
 ---
 
 # {{Page Title to Display on Page}}

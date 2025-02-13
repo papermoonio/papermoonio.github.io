@@ -7,7 +7,7 @@ description: TODO
 
 ## Introduction
 
-The Wormhole Docs use Build as the section for how-to guide related content. Build pages are structured to implement the [How-to guide](https://diataxis.fr/how-to-guides/){target=\_blank} Diataxis documentation form and the [How-to guide](https://www.thegooddocsproject.dev/template/how-to){target=\_blank} The Good Docs Project content type. The following sections use task to refer to the objective the user wants to acheive by using the how-to guide.
+The Wormhole Docs use Build as the section for how-to guide related content. Build pages are structured to implement the [How-to guide](https://diataxis.fr/how-to-guides/){target=\_blank} Diataxis documentation form and the [How-to guide](https://www.thegooddocsproject.dev/template/how-to){target=\_blank} The Good Docs Project content type. The following sections use tasks to refer to the objective the user wants to achieve by using the how-to guide.
 
 ## Purpose of Build Pages
 
@@ -21,29 +21,29 @@ The primary purpose of Build pages is to help the user solve a real-world proble
 
 :white_check_mark: Alert the user to possible issues or difficulties and provide guidance on resolving them
 
-:x: Do not include conceptual explation or reference information in the body copy
+:x: Do not include concept explanation or reference information in the body copy
 
 ## Before You Start Writing
 
-The single most important thing you can do before you start writing is to think about the target audience and what they might need from this page. The following sections contain additional activities you may find useful during the planning phase.
+The most important thing you can do before you start writing is to think about the target audience and what they might need from this page. The following sections contain additional activities you may find useful during the planning phase.
 
 ### Identify Scenarios
 
-Once you identify the task the Build page will cover, it is helpful to consider different scenarios your user may encounter when carrying out the task in the real world. The best way to do this is to walk through the task yourself. You should make sure you've completed the task and understand the places where a user might have questions or decision points requiring guidance. 
+Once you identify the task the Build page will cover, it is helpful to consider different scenarios your user may encounter when carrying out the task in the real world. The best way to do this is to walk through the task yourself. Make sure you've completed the task and understand the places where a user might have questions or decision points requiring guidance. 
 
 ### Map the Safest Path
 
-There is often more than one possible way to complete a task. Your goal as the creator of the Build page is to map out the safest, surest path to completing the task. Suggesting multiple ways to complete a task asks the user to analyze those options, understand them all, and determine which option will best solve their problem. Make their journey easier and provide a single, reliable path to accomplishing the task. 
+There is often more than one possible way to complete a task. Your goal as the creator of the Build page is to map out the safest, surest path to completing the task. Suggesting multiple ways to complete a task asks the user to analyze those options, understand them, and determine which option will best solve their problem. Make their journey easier and provide a reliable path to accomplishing the task. 
 
 ### Anticipate Error Scenarios
 
-Keep track of any errors you encounter while working through the task and identifying scenarios. Your Build page should include troubleshooting information anywhere you anticipate the user may encounter errors.
+Track any errors you encounter while working through the task and identify scenarios. Your Build page should include troubleshooting information anywhere you anticipate the user may encounter errors.
 
 ## Name a Build Page
 
 The title of a Build page should tell the user what task they can accomplish by following the guide. Consider the following guidelines and options when naming a Build page:
 
-- **Use a Verb** - start the title with the plain, or base, form of a verb such as "Build," "Integrate", or "Configure"
+- **Use a Verb** - start the title with the plain, or base, form of a verb such as "Build," "Integrate," or "Configure"
 
     :white_check_mark: Send Messages with Wormhole Relayer
 
@@ -69,11 +69,11 @@ The title of a Build page should tell the user what task they can accomplish by 
 
     :white_check_mark: The title in the left navigation and the title rendered on the page can be different
 
-If you have a title you would like to use that doesn't fit these guidelines, please discuss it with the formatting team prior to opening your pull request. 
+If you have a title you would like to use that doesn't fit these guidelines, please discuss it with the formatting team before opening your pull request. 
 
 ## Create Build Page Description
 
-Each Build page must include an an SEO-friendly meta-description of between 120 and 160 characters. You can use Grammarly as an assistant for this task by following these steps:
+Each Build page must include an SEO-friendly meta-description of between 120 and 160 characters. You can use Grammarly as an assistant for this task by following these steps:
 
 1. Paste your copy into a Grammarly document
 2. Select the **Write with generative AI** tab at the top of the right-hand column
@@ -115,7 +115,7 @@ Example - see the [introduction](https://docs.stripe.com/no-code/subscriptions){
 
 ### Prerequisites
 
-The Prerequisites section should include a statement advising the user of which items the Build page assumes they have basic knowledge, including knowledge of basic blockchain development and Wormhole concepts. Following this statement, include a bullet list of additional things the user needs to know, install, or have available. This might include items such as the following:
+The Prerequisites section should include a statement advising the user of which items the Build page assumes they have basic knowledge, including knowledge of fundamental blockchain development and Wormhole concepts. Following this statement, include a bullet list of additional things the user needs to know, install, or have available, which may include items such as the following:
 
 - Specific Wormhole concepts they should know with links to related Learn pages
 - Software or hardware requirements
@@ -123,7 +123,7 @@ The Prerequisites section should include a statement advising the user of which 
 - Testnet tokens or wallets
 - Authentication and authorization information such as API or private keys
 
-Wherever possible, link the user to a resource to help them complete a prerequisite. This can include outside documentation, relevant Learn pages, token faucets, and similar.
+Whenever possible, link the user to a resource that will help them complete a prerequisite, such as outside documentation, relevant Learn pages, or token faucets.
 
 Example - see the following for an example of a quality prerequisites section:
 
@@ -132,7 +132,7 @@ Example - see the following for an example of a quality prerequisites section:
 
 ### Style Subtasks
 
-For each subtask in the guide, use the heading to list the name of the subtask followed by a numbered list of steps to follow to complete that task. For each numbered step, include the following:
+For each subtask in the guide, use the heading to list the name of the subtask, followed by a numbered list of steps to follow to complete that task. For each numbered step, include the following:
 
 - **Action to take** - start with a verb 
 
@@ -164,7 +164,7 @@ Create a bulleted list of links to informational resources related to the page c
 
 ### Where to Go Next
 
-Create a bulleted list of guides and tutorials related to the page contents to guide the developer journey toward completing related tasks.
+Create a bulleted list of guides and tutorials related to the page contents to guide the developer in completing related tasks.
 
 ## Build Page Template
 
@@ -172,7 +172,7 @@ Create a bulleted list of guides and tutorials related to the page contents to g
 
 ## PR Checklist
 
-Before requesting PR review, please ensure you have:
+Before requesting a PR review, please ensure you have completed the following:
 
 1. Used Grammarly to review your work and made edits as needed
 2. Served the site locally for a visual review of rendering and made updates as needed
@@ -185,7 +185,7 @@ Before requesting PR review, please ensure you have:
 
 3. Checked the PR checklist on GitHub and completed any items listed there
 
-## Addtional Resources
+## Additional Resources
 
 - [**Character Counter**](https://wordcounter.net/character-count){target=\_blank} - quickly check the character length of your titles and descriptions
 - [**Title Case Converter**](https://titlecaseconverter.com/){target=\_blank} - verify title case for titles or headlines
